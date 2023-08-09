@@ -120,6 +120,97 @@ Ya para finalizar el proceso lo que haremos será dar en el botón de instalar e
 
 ![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/da544ee6-c4b3-41e5-ae22-b84cf006aef8)
 
+Al finalizar el proceso de instalación daremos clic en donde nos dice ejecutar 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/c9270279-3d6f-47d2-a9eb-4eeed3c2b06e)
+
+Así se verá el editor de texto al ser ejecutado  
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/3f2f051d-aebc-42c7-8253-53894df1cfaa)
+
+2. Modifique el archivo index.php del primer proyecto para que imprima en el navegador la siguiente información: 
+
+  Su nombre. 
+
+  Su número de cédula. 
+
+  Un saludo a su Instructor virtual con el nombre del mismo.  
+
+ Tome una impresión de pantalla del código y otra para evidenciar la ejecución del mismo. 
+
+ 
+
+Proceso de ejecución 
+
+Para iniciar con nuestro primer proyecto tendremos que ejecutar el WAMP para hacer esto daremos clic en el icono del escritorio, este archivo lo ejecutaremos con administrador 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/a062dd9f-9609-4db1-8a49-79c8a6cf098f)
+
+Ya que este iniciado se nos mostrará un icono de color verde en la barra de tareas 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/4f0997b0-7868-45d0-8fff-42b04700e2f4)
+
+Ahora lo que haremos será abrir nuestro explorador de archivos y nos dirigiremos a la carpeta www que viene en los archivos de WAMPP, en esta carpeta crearemos nuestro primer proyecto 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/08de7df4-fbdf-4ed3-80fe-7f9e8d5b6035)
+
+Al interior de esta carpeta crearemos una nueva carpeta con el nombre que prefieras en nuestro caso la llamaremos “Desarrollo web con PHP” 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/ced0d183-8c88-4066-9841-7ebb3a597be3)
+
+Al interior de nuestra carpeta de proyectos alojaremos nuestro primer fichero PHP al cual llamaremos “index.php” 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/e48cee8e-e23b-4725-bd64-ce737bebd2da)
+
+Ahora para ejecutar este documento PHP es necesario el editor de texto vs code, para ejecutarlo solo abriremos el editor de texto  
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/0a22ae99-4281-4a15-9147-312cd0f79ebe)
+
+Se nos abrirá una pantalla similar a la siguiente, nuestro editor de texto se verá muy diferente al iniciar ya que lo hemos configurado y personalizado a nuestro gusto y conveniencia 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/7c03b32e-e2bd-49c4-8b47-ae289d037ae0)
+
+Para guardar nuestro archivo lo único que haremos será arrastrar la carpeta de nuestro proyecto y alojarla al interior de nuestro editor de texto, se vera de la siguiente manera  
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/0c38bd5f-256d-4371-a238-c26aedf8e30a)
+
+para ejecutar nuestro archivo en un navegador escribas localhost seguido del nombre de la carpeta de nuestro proyecto, se verá algo así  
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/3d19f2ca-f617-4f4a-bbe4-cd241295e574)
+
+***
+En la actividad a desarrollar se nos pide lo siguiente  
+
+ Su nombre. 
+
+ Su número de cédula. 
+
+ Un saludo a su Instructor virtual con el nombre del mismo.  
+
+ Tome una impresión de pantalla del código y otra para evidenciar la ejecución del mismo. 
+
+## Código fuente
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/e1d12e3a-4593-4d6b-be0e-9d30971ef1f6)
+
+## Producto sin estilos 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/ddde305b-253b-441e-a096-cc90bae5fde5)
+
+## producto con estilos 
+
+![image](https://github.com/Brayan-Hc11/Desarrollo_Web_con_PHP/assets/118775234/283381e9-6c5e-4251-99de-3ca7afe7463e)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
